@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<svg height="1000" width="2100">
+  <text x="20" y="100"
+      style="fill: gold; stroke: #000000;  font-size: 100px;">
+    S
+</text>
+  <text x="20" y="100"
+      style="fill: gold; stroke: #000000;  font-size: 100px;">
+    A
+</text>
+</svg>
+ 
+</body>
+</html>
