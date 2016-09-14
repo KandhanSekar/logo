@@ -11,7 +11,7 @@
       style="fill: #FFC627; stroke: #000000;  font-size: 190px;stroke-width:3;" transform ="scale(1.5,0.8)">
     S
 </text>
- <polyline points="279 100,317 195,180" style="fill:black;stroke:#FFC627;stroke-width:17" />
+ <polyline points="279 100,317 195,180" style="fill:black;stroke:#FFC627;stroke-width:15" />
 <polyline points="219.5 194.5,238 150,180" style="fill:gold;stroke:#FFC627;stroke-width:6" />
 
 
